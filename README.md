@@ -2,10 +2,10 @@
 
 | **Milestone**                    | **Description**                                           | **Estimated Time Frame** | **Completion Date** | **Status**     |
 |----------------------------------|-----------------------------------------------------------|--------------------------|---------------------|----------------|
-| **1. Backend Setup**            | Initial setup to publish the shop's Terms and Conditions + other fields | 1 day   | 17/09 | Not Started    |
-| **2. Setting Up Theme**            | Choose and approve a Shopify theme.                      | 1-2 days   | 19/09   | Not Started    |
-| **3. Theme Customization**        | Customize the theme to match the brand and design preferences. | 1-3 days   | 21/09    | Not Started    |
-| **4. Product Upload**             | Add and configure details for 10+ products.              | 1-2 days    | 23/09   | Not Started    |
+| **1. Backend Setup**            | Initial setup to publish the shop's Terms and Conditions + other fields | 1 day   | 17/09 | Finished    |
+| **2. Setting Up Theme**            | Choose and approve a Shopify theme.                      | 1-2 days   | 19/09   | Finished    |
+| **3. Theme Customization**        | Customize the theme to match the brand and design preferences. | 1-3 days   | 21/09    | Finished    |
+| **4. Product Upload**             | Add and configure details for 10+ products.              | 1-2 days    | 23/09   | On-Going    |
 | **5. Setting Up Payment Gateways**        | Set up payment gateways, shipping options, and any additional apps or plugins. | 1-2 days | 24/09  | Not Started    |
 | **6. SEO Setup & Updating Metadata**      | Add and optimize content for SEO (if applicable).        | 1-2 day    | 26/09  | Not Started    |
 | **7. Testing and Error finding** | Test website functionality, responsiveness, and fix any issues. | 1-2 days  | 27/09    | Not Started    |
